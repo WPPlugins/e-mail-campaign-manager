@@ -1,0 +1,10 @@
+
+div.r1-campaign-manager div.navi { border-bottom: 1px solid #ddd; margin: 0 0 2em; }
+div.r1-campaign-manager div.navi a { display: inline-block; vertical-align: baseline; margin: 0 1em 0.5em 0; font-size: 14px; font-weight: 700; padding: 0.5em; }
+div.r1-campaign-manager div.navi a.active { color: #444; text-decoration: none; }
+
+div.r1-campaign-manager small.error { color: #cc0000; }
+
+div.r1-campaign-manager xmp { border: 2px solid #ddd; padding: 0.5em; background: #fff; }
+
+div.r1-campaign-manager small.copied { display: inline-block; vertical-align: -5px; margin: 0 0 0 5px; }
